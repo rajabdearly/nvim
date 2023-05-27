@@ -15,6 +15,6 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 
 
 ```console
-git clone https://github.com/rajabdearly/nvim.git ~/.config/nvim
+git clone git@github.com:rajabdearly/nvim.git /.config/nvim
 
 ```
