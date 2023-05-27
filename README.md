@@ -3,6 +3,6 @@
 How to sync?
 
 ```console
-git clone https://github.com/rajabdearly/nvim.git ~/.config/
+git clone https://github.com/rajabdearly/nvim.git ~/.config/nvim
 
 ```
