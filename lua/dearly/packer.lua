@@ -69,5 +69,6 @@ return require('packer').startup(function(use)
     require('packer').sync()
   end
 
+  use 'preservim/nerdtree'
 
   end)
