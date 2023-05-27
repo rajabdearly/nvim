@@ -13,6 +13,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
  ~/.local/share/nvim/site/pack/packer/start/packer.nvi
 ```
 
+## Clone this repo to `.config` folder
 
 ```console
 git clone git@github.com:rajabdearly/nvim.git /.config/nvim
