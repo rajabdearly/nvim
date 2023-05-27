@@ -2,10 +2,10 @@ local lsp = require('lsp-zero').preset({})
 
 
 lsp.ensure_installed({
-  'tsserver',
-  'eslint',
-  'rust_analyzer',
-  'lua-language-server'
+    'tsserver',
+    'eslint',
+    'lua_ls',
+    'rust_analyzer',
 })
 
 -- Fix Undefined global 'vim'
